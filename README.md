@@ -39,6 +39,7 @@ This repository contains **only** the publicly released, non-patented portions o
 git clone https://github.com/yourusername/atoe-open-core.git
 cd atoe-open-core
 python examples/basic_resonator_example.py
+```
 
 
 **Repository Contents**
@@ -48,12 +49,17 @@ examples/basic_resonator_example.py → Simple usage demo
 docs/ATOE_Physics_Brief.md → Physics summary of the open-source code
 
 **License**
+
 MIT License — fully permissive for research, education, and non-commercial use.
 See the LICENSE file for details.
+
 **Important Legal Note:**
+
 This repository does **not** enable any of the patented inventions. Any commercial hardware, devices, or products based on the complete ATOE framework (resonators, batteries, motors, actuators, etc.) require a separate licensing agreement with the inventor.
+
 For licensing inquiries: abhishekrathi2010@gmail.com, abhishek@abhishekrathi.in
 
 **Citation**
+
 If you use this code in academic or research work, please cite:
 Rathi, A. (2026). A Unified Aether Model of Reality. Zenodo. https://zenodo.org/records/19387961
